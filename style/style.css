@@ -1,0 +1,13 @@
+.music-body{
+    background-color: #333341 ;
+    border-radius: 20px;
+}
+#music-list{
+    overflow-y: scroll;
+    height: 300px
+}
+#music-list p:hover {
+    background-color: #ED2833;
+    margin-right: 50px;
+    margin-left: 50px;
+}
