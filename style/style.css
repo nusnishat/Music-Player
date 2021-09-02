@@ -9,9 +9,9 @@
 /* tablet devices */
 @media only screen and (min-width:688px )
 {
-#music-list p:hover {
-    background-color: #ED2833;
-    margin-right: 50px;
-    margin-left: 50px;
-}
+    #music-list p:hover {
+        background-color: #ED2833;
+        margin-right: 50px;
+        margin-left: 50px;
+    }
 }
