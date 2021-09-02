@@ -9,6 +9,10 @@ function playMusic(songName)
      `;
      audioField.appendChild(div);
 }
+
+document.getElementById('audio-field').addEventListener('click', function(){
+    console.log('clicked');
+})
 playMusic('Maroon 5-Memories');
 document.getElementById('maroon').addEventListener('click',function(){
     playMusic('Maroon 5-Memories');
